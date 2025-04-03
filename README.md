@@ -22,7 +22,7 @@ Ben **Kıdemli Full Stack Geliştirici**yim ve **Node.js, Next.js, Flutter, Lara
 - 🏝️ **BeachGoin** – Plaj ve tatil deneyimini kolaylaştıran mobil ve web uygulamasını geliştirdim.
 
 ### 📫 İletişime Geç
-- **Web Sitem:** [arifdemirbas.dev](https://www.arifdemirbas.com)
+- **Web Sitem:** [arifdemirbas.com](https://www.arifdemirbas.com)
 - **LinkedIn:** [Arif Demirbaş](https://www.linkedin.com/in/arifdemirbas/)
 
 ⚡ Yeni fırsatlara, iş birliklerine ve yenilikçi projelere her zaman açığım!
